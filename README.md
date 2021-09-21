@@ -32,7 +32,7 @@ https://youtu.be/fd0KPblop-k
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LeaarnFlutter/LiyaMwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@LeaarnFlutter/LiyaMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@LearnFlutter/LiyaMwol?v=1)
   
 ### The Hard Method
 ```js
