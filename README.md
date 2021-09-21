@@ -39,7 +39,7 @@ https://youtu.be/fd0KPblop-k
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/cyberchekuthan/LiyaMwol_v2
+$ git clone https://github.com/LeaarnFlutter/LiyaMwol
 $ cd LiyaMwol_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
