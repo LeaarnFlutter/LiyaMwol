@@ -76,7 +76,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Lvtl7GqERfP19Na6M2wndX)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=liya-Mwol&theme=nightowl)](https://github.com/farhan-dqz/liya-Mwol)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeaarnFlutter&repo=LiyaMwol&theme=nightowl)](https://github.com/LeaarnFlutter/LiyaMwol)
   </div>
     
 ### ⚠️ Warning! 
