@@ -48,7 +48,7 @@ $ node liya.js
       
 ```js
 SETUP
-$ git clone https://github.com/cyberchekuthan/LiyaMwol_v2
+$ git clone https://github.com/LeaarnFlutter/LiyaMwol
 $ cd LiyaMwol_v2
 $ npm i
 $ node liya.js
