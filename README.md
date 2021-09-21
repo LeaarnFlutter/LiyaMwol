@@ -60,13 +60,13 @@ $ node liya.js
   <a href="httsp://github.com/farhan-dqz/liyaMwol">
     
 <a href="https://github.com/farhan-dqz/followers">
-<img src="https://img.shields.io/github/repo-size/farhan-dqz/liya-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/LeaarnFlutter/LiyaMwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/farhan-dqz/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/liyaMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/liyaMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/liyaMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/liyaMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/liyaMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/liyaMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/LeaarnFlutter/LiyaMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LeaarnFlutter/LiyaMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/LeaarnFlutter/LiyaMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LeaarnFlutter/LiyaMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/LeaarnFlutter/LiyaMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LeaarnFlutter/LiyaMwol?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
